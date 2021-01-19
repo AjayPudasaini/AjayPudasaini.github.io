@@ -62,7 +62,6 @@ section h1{
     color: white;
 }
 @keyframes changetext{
-    0%{content: 'Boy';}
     20%{content: 'WEB Developer';}
     40%{content: 'Student';}
     60%{content: 'Python Developer';}
